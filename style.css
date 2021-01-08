@@ -5,6 +5,18 @@
 .test{
     color:green;
 }
+.container{
+    background: greenyellow;
+    padding:40px;
+    margin :40px;
+    border : 10px solid red ;
+    border-radius: 8px;
+}
+#image{
+    border-radius: 150px;
+    height: 250px ;
+    width: 250px;
+}
 h4{
     color:indigo
 }
