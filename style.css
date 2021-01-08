@@ -21,3 +21,20 @@
 h4{
     color:indigo
 }
+.flexdiv{
+    width:100%;
+    border:1px solid black;
+    height: 400px;
+    display:flex;
+    flex-wrap: wrap;
+    justify-content:center;
+    align-items:center;
+    flex-direction:column;
+}
+
+#elem{
+    text-align: center;
+    background: grey;
+    padding: 5px;
+    border:1px solid red;
+}
