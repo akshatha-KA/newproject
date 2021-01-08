@@ -6,7 +6,8 @@
     color:green;
 }
 .container{
-    background: greenyellow;
+    text-align: center;
+    background: limegreen;
     padding:40px;
     margin :40px;
     border : 10px solid red ;
