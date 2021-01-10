@@ -1,3 +1,3 @@
 const submit= () => {
-    alert("Submission confirmed!");
+    alert("We will reachout to you soon!");
 }
