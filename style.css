@@ -42,17 +42,25 @@ h4{
 }
 
 body{
-    background-image: linear-gradient(grey,white,black)
+    background-image: linear-gradient(rgb(137, 162, 209),white,rgb(7, 7, 71))
 }
 
 #ele{
     margin:10px;
 }
 
-#name{
+#namec{
     font-size: xx-large;
     font-weight: bold;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+   
+}
+
+.name{
+    background: -moz-linear-gradient(rgb(95, 133, 238));
+    border:1px solid black;
+    justify-content:center;
 }
 
 #year{
